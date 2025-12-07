@@ -146,7 +146,6 @@ The goal of HomelyHub is to showcase **job-ready full-stack development skills**
 - Real-world Application Architecture  
 
 ---
-
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/homelyhub.git
