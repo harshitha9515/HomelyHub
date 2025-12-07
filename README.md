@@ -90,15 +90,26 @@ This project reflects how **modern web applications work in the real world**.
 ## 🗂️ Project Structure
 
 homelyhub/
+
 ├── public/
+
 ├── src/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── services/
+
 │ ├── hooks/
+
+
 │ └── utils/
+
 ├── README.md
+
 ├── package.json
+
 └── vite.config.js
 
 ---
@@ -147,6 +158,7 @@ The goal of HomelyHub is to showcase **job-ready full-stack development skills**
 
 ---
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/homelyhub.git
 cd homelyhub
@@ -164,4 +176,5 @@ Create a .env file:
 MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
+
 PAYMENT_KEY=your_payment_gateway_key
